@@ -2,11 +2,11 @@
 <manifest>
 
  <!-- Trees -->
- <project path="device/xiaomi/surya" name="kitchen-at-night/android_device_xiaomi_surya.git" remote="github" revision="lineage-19.1" />
- <project path="kernel/xiaomi/surya" name="kitchen-at-night/android_kernel_xiaomi_surya.git" remote="github" revision="lineage-19.1" />
- <project path="vendor/xiaomi/surya" name="kitchen-at-night/android_vendor_xiaomi_surya.git" remote="github" revision="lineage-19.1" />
+ <project path="device/xiaomi/surya" name="kitchen-at-night/android_device_xiaomi_surya.git" remote="github" revision="lineage-20" />
+ <project path="kernel/xiaomi/surya" name="kitchen-at-night/android_kernel_xiaomi_surya.git" remote="github" revision="lineage-20" />
+ <project path="vendor/xiaomi/surya" name="kitchen-at-night/android_vendor_xiaomi_surya.git" remote="github" revision="lineage-20" />
 
  <!--Addons -->
- <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-19.1" />
+ <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi.git" remote="github" revision="lineage-20" />
  
 </manifest>
