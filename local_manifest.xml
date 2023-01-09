@@ -6,7 +6,4 @@
  <project path="kernel/xiaomi/surya" name="kitchen-at-night/android_kernel_xiaomi_surya.git" remote="github" revision="lineage-20" />
  <project path="vendor/xiaomi/surya" name="kitchen-at-night/android_vendor_xiaomi_surya.git" remote="github" revision="lineage-20" />
 
-
-
-
 </manifest>
